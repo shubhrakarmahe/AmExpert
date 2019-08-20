@@ -6,7 +6,7 @@ American Express and Analytics Vidhya presents “AmExpert decipHER – Women’
  
  #-----------------------------------------------------------------------------#
  
- Leaderboard Rank - 173 out of 1708 participants.
+ Leaderboard Rank - 153 out of 1708 participants.
  
  #-----------------------------------------------------------------------------#
  
